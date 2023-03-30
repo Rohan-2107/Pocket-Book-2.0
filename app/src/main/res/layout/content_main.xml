@@ -13,10 +13,10 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentRight="true"
         android:layout_alignParentBottom="true"
-        app:menu="@menu/bottommenu"
+        android:background="@drawable/loginbackground"
         app:itemIconTint="@color/white"
         app:itemTextColor="@color/white"
-        android:background="@drawable/loginbackground">
+        app:menu="@menu/bottommenu">
 
     </com.google.android.material.bottomnavigation.BottomNavigationView>
 
