@@ -18,6 +18,7 @@
         app:itemIconTint="@color/toolbar_color"
         android:layout_gravity="start"
         android:id="@+id/naView"
+        app:itemTextColor="@color/nav_header"
         android:fitsSystemWindows="true"
         app:itemTextAppearance="?android:textAppearanceSmall"
         app:menu="@menu/navmenu"

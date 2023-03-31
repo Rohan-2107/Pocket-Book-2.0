@@ -10,4 +10,8 @@
     <color name="purple">#8692f7</color>
     <color name="toolbar_color">#DD6E42</color>
     <color name="nav_header">#B55834</color>
+    
+    <color name="dashboard_color">#51210F</color>
+    <color name="income_color">#11B105</color>
+    <color name="expense_color">#CF0202</color>
 </resources>
